@@ -16,6 +16,7 @@
 
 
   <ItemGroup>
+    <ProjectReference Include="..\CleanArch.Ioc\CleanArch.Ioc.csproj" />
     <ProjectReference Include="..\CleanArchInfra.Data\CleanArchInfra.Data.csproj" />
   </ItemGroup>
 
