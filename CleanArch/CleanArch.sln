@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchApp", "CleanArchAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Ioc", "CleanArch.Ioc\CleanArch.Ioc.csproj", "{ECC26E7B-FC97-4B81-9321-DBA833E7B24A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClearArch.Infra.Bus", "ClearArch.Infra.Bus", "{E17A8545-7CFE-4220-9105-B20CA276812D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{7A0D5E71-56FD-4070-BC27-0B75E6F4C409}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
